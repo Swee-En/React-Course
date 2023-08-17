@@ -31,7 +31,7 @@ const Home = () => {
 
             <header className="masthead" style={{height: '100vh'}}>
                 <div className="container">
-                    <div className="masthead-subheading">Welcome To Our Studio!</div>
+                    <div className="masthead-subheading">Welcome To My Project!</div>
                     <div className="masthead-heading text-uppercase">It's Nice To Meet You</div>
                     <Link to='/services' className="btn btn-primary btn-xl text-uppercase">Tell Me More</Link>
                 </div>
